@@ -1,20 +1,18 @@
-## Estágio Curricular Não Obrigatório (ECNO)
+<h1>Estágio Curricular Não Obrigatório (ECNO)</h1>
 
-<p align="justify">Nesta página você discente terá acesso as informações do Estágio Curricular Não Obrigatório (ECNO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil. Para você que ainda não conhece o processo do ECNO, vamos lá:</p>
+<p align="justify">
+  Nesta página você discente terá acesso as informações do Estágio Curricular Não Obrigatório (ECNO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil. Para você que ainda não conhece o processo do ECNO, vamos lá.
+  <br><br>  
+  O discente que irá fazer o ECNO não precisará estar matriculado na componente curricular do curso <b>ESTÁGIO SUPERVISIONADO</b>. Portanto basta ser aluno regular (com matrícula ativa) do curso de Engenharia Civil e estar com 25% da carga horária total integralizada.
+  <br><br>
+  O estágio poderá ser realizado de duas formas: (a) Convênio (consulte as <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank">empresas conveniadas</a>); ou (b) Agente de integração (consulte os <a href="https://estagio.catalao.ufg.br/p/37440-agentes-de-integracao-ufcat" target="_blank">agentes integradores parceiros</a>).
+  <br><br>
+  Após o passo anterior o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:
+</p>
   
-  
-<p align="justify">O discente que irá fazer o ECNO não precisará estar matriculado na componente curricular do curso <b>ESTÁGIO SUPERVISIONADO</b>. Portanto basta ser aluno regular (com matrícula ativa) do curso de Engenharia Civil e estar com 25% da carga horária total integralizada.</p>
-
-
-<p align="justify">O estágio poderá ser realizado de duas formas: (a) Convênio; ou (b) Agente de integração. Para consultar maiores detalhes sobre esta questão acesse o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/002-PASSOS.html" target="_blank"><i>link</i></a>.</p>
-
-  
-<p align="justify">Após o passo anterior o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:</p>
-
-
 <ol>
   <li><p align="justify">Comprovante de matrícula no curso retirado do SIGAA (não precisa de assinatura);</p></li> 
-  <li><p align="justify">Fazer o <i>download</i> do <a href="https://docs.google.com/spreadsheets/d/1YDI6wjQUq7Is5IRhCgKPUsgyvR-Nr7uB/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Quadro de Horários</a> e preencher com a demarcação das horas de estágio, aulas e depois assinar eletronicamente o PDF;</p></li> 
+  <li><p align="justify">Fazer o <i>download</i> do <a href="https://docs.google.com/spreadsheets/d/1YDI6wjQUq7Is5IRhCgKPUsgyvR-Nr7uB/edit?usp=sharing&ouid=111460075262236273387&rtpof=true&sd=true" target="_blank">Quadro de Horários</a> e preencher com a demarcação das horas de estágio, aulas e depois assinar eletronicamente o PDF via assinador GOV ou outro que tenha certificado digital. Estágios com carga superior a 30 hrs devem ser justificados e superiores a 40 hrs não serão validados por esta coordenação;</p></li> 
   <li><p align="justify"><a href="https://forms.gle/dDR88259d8fvjvzf7" target="_blank">Plano de atividades do estágio</a> (lembre-se de usar o seu e-mail da UFCAT para receber a cópia do formulário preenchido) devidamente assinado.</p></li>   
 </ol>
 
