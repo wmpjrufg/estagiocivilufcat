@@ -1,12 +1,14 @@
 ## Estágio Curricular Obrigatório (ECO)
 
-<p align="justify">Nesta página você discente terá acesso as informações do Estágio Curricular Obrigatório (ECO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil. Para você que ainda não conhece o processo do ECO, vamos lá:</p>
-  
-<p align="justify">O discente que irá fazer o ECO precisará estar matriculado na componente curricular do curso <b>ESTÁGIO SUPERVISIONADO</b>. Para isto basta ser aluno regular (com matrícula ativa) do curso de Engenharia Civil e estar com 70% da carga horária total integralizada. Além disso é importante observar que a documentação de estágio obrigatório precisa ser elaborada de forma completa mesmo que o aluno já possua um estágio e o mesmo seja regularizado pela UFCAT no formato Estágio Não Obrigatório.</p>
-
-<p align="justify">O estágio poderá ser realizado de duas formas: (a) Convênio; ou (b) Agente de integração. Para consultar maiores detalhes sobre esta questão acesse o <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/002-PASSOS.html" target="_blank"><i>link</i></a>.</p>
-
-<p align="justify">Finalizado o passo anterior o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:</p>
+<p align="justify">
+  Nesta página você discente terá acesso as informações do Estágio Curricular Obrigatório (ECO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil.
+  <br><br>
+  O discente que irá fazer o ECO precisará estar matriculado na componente curricular do curso <b>ESTÁGIO SUPERVISIONADO</b>. Para isto basta ser aluno regular (com matrícula ativa) do curso de Engenharia Civil e estar com 70% da carga horária total integralizada. Além disso é importante observar que a documentação de estágio obrigatório precisa ser elaborada de forma completa mesmo que o aluno já possua um estágio e o mesmo seja regularizado pela UFCAT no formato Estágio Não Obrigatório.
+  <br><br>
+  O estágio poderá ser realizado de duas formas: (a) Convênio (consulte as <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank">empresas conveniadas</a>); ou (b) Agente de integração (consulte os <a href="https://estagio.catalao.ufg.br/p/37440-agentes-de-integracao-ufcat" target="_blank">agentes integradores parceiros</a>).
+  <br><br>
+  Após o passo anterior o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:
+</p>
 
 <ol>
   <li><p align="justify">Comprovante de matrícula no curso retirado do SIGAA (não precisa de assinatura);</p></li> 
@@ -14,15 +16,19 @@
   <li><p align="justify"><a href="https://files.cercomp.ufg.br/weby/up/610/o/6.5_PLANO_DE_ATIVIDADES_ESTUDANTES_DA_UFCAT_REALIZANDO_ESTAGIO_OBRIGATORIO_EM_INSTITUI%C3%87OES_CONVENIADAS_COM_UFCAT_1.doc" target="_blank">Plano de atividades do estágio</a> (lembre-se de usar o seu e-mail da UFCAT para receber a cópia do formulário preenchido) devidamente assinado.</p></li>   
 </ol>
 
-<p align="justify">É muito importante que antes da assinatura do contrato de estágio o coordenador do estágio tenha ciência do seu plano de atividades. Contratos só são assinados depois que o plano de atividades é assinado pelas 4 partes (supervisor, professor orientador, discente e coordenador de estágio). A ordem de assinatura é sempre coordenador de estágio, aluno, professor orientador e supervisor.</p>
-  
-<p align="justify">Portanto recolhida todas as assinaturas você poderá elaborar seu contrato de estágio (TCE). Caso seu estágio esteja vinculado ao agente integrador UFCAT o contrato de estágio deve ser elaborado pelo próprio discente (<a href="https://files.cercomp.ufg.br/weby/up/610/o/Tutorial_Preenchimento_do_TCE_e_do_Plano_de_Atividades.pdf" target="_blank">Guia de elaboração TCE pela UFCAT</a>). Para obtenção do modelo solitice ao pessoal do convênio de estágio na CGE ou consulte a <a href="https://estagio.catalao.ufg.br" target="_blank">página do estágio</a> na aba formulários. Lembre-se de ficar atento a sua modalidade de estágio ou caso o esteja vinculado a outro agente integrador solicite a este a elaboração do TCE.</p>
-
-<p align="justify">Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte o seu contratante para obter o número de apólice do seu seguro. No caso de um TCE elaborado pela UFCAT esse número de apólice é dada pelo documento do <a href="https://estagio.catalao.ufg.br/p/36446-apolice" target="_blank"><i>link</i></a>.</p>
-    
-<p align="justify">A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/005-BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.</p>
-
-<p align="justify">Após recolhimento de todas as assinaturas nos documentos é obrigatório a partir de 2021 que o ECO seja registrado via SEI. O peticionamento do estágio é realizado pelo próprio coordenador de estágio e fica a cargo do discente a produção dos documentos comprobatórios do estágio. A seguir segue uma lista de documentos que deve ser produzida e concatenada (recomendamos o uso do <a href="https://www.ilovepdf.com/pt" target="_blank">Ilovepdf</a> para junção dos arquivos) para inserção no SEI na seguinte ordem seguem:</p>
+<p align="justify">
+  É muito importante que antes da assinatura do contrato de estágio o coordenador do estágio tenha ciência do seu plano de atividades. Contratos só são assinados depois que o plano de atividades é assinado pelas 4 partes (supervisor, professor orientador, discente e coordenador de estágio). A ordem de assinatura é sempre coordenador de estágio, aluno, professor orientador e supervisor.
+  <br><br>
+  Portanto recolhida todas as assinaturas você poderá elaborar seu contrato de estágio (TCE). Caso seu estágio esteja vinculado ao agente integrador UFCAT o contrato de estágio deve ser elaborado pelo próprio discente (<a href="https://files.cercomp.ufg.br/weby/up/610/o/Tutorial_Preenchimento_do_TCE_e_do_Plano_de_Atividades.pdf" target="_blank">Guia de elaboração TCE pela UFCAT</a>). Qualquer dúvida no preenchimento do <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_TCE.docx" target="_blank">modelo </a> consulte a coordenação geral ou o coordenador de estágio. 
+  <br><br>
+  Lembre-se de ficar atento a sua modalidade de estágio ou caso o esteja vinculado a outro agente integrador solicite a este a elaboração do TCE.
+  <br><br>
+  Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte o seu contratante para obter o número de apólice do seu seguro. No caso do ECO, alunos matriculados na componente curricular tem direito a um seguro. Verificar com a Coordenação Geral de estágio qual a apólice de seguro vigente.
+  <br><br>
+  A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/005-BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.
+  <br><br>
+  Após recolhimento de todas as assinaturas nos documentos é obrigatório a partir de 2021 que o ECO seja registrado via SEI. O peticionamento do estágio é realizado pelo próprio coordenador de estágio e fica a cargo do discente a produção dos documentos comprobatórios do estágio. A seguir segue uma lista de documentos que deve ser produzida e concatenada (recomendamos o uso do <a href="https://www.ilovepdf.com/pt" target="_blank">Ilovepdf</a> para junção dos arquivos) para inserção no SEI na seguinte ordem seguem:
+</p>
   
 <ol>
   <li><p align="justify">Lista de frequência (enviada pelo coordenador de estágio do curso) assinada pelo discente;</p></li> 
