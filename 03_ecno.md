@@ -12,8 +12,8 @@
   
 <ol>
   <li><p align="justify">Comprovante de matrícula no curso retirado do SIGAA (não precisa de assinatura);</p></li> 
-  <li><p align="justify">Fazer o <i>download</i> do <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Quadro%20de%20hor%C3%A1rios.xlsx" target="_blank">Quadro de Horários</a> e preencher com a demarcação das horas de estágio, aulas e depois assinar eletronicamente o PDF via assinador GOV ou outro que tenha certificado digital. Estágios com carga superior a 30 hrs devem ser justificados no e-mail de envio da documentação. Estágios com carga horária superior a 40 hrs não serão validados por esta coordenação;</p></li> 
-  <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Plano%20de%20trabalho.docx" target="_blank">Plano de atividades do estágio</a> devidamente assinado. Para elaboração desse documento lembre-se sempre de usar a expressar <b>"auxiliar na atividade x ou y"</b> nas atividades realizadas visto que o estagiário não será responsável técnico de nenhuma atividade na empresa.</p></li>   
+  <li><p align="justify">Fazer o <i>download</i> do <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Horarios.xlsx" target="_blank">Quadro de Horários</a> e preencher com a demarcação das horas de estágio, aulas e depois assinar eletronicamente o PDF via assinador GOV ou outro que tenha certificado digital. Estágios com carga superior a 30 hrs devem ser justificados no e-mail de envio da documentação. Estágios com carga horária superior a 40 hrs não serão validados por esta coordenação;</p></li> 
+  <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Plano_trabalho.docx" target="_blank">Plano de atividades do estágio</a> devidamente assinado. Para elaboração desse documento lembre-se sempre de usar a expressar <b>"auxiliar na atividade x ou y"</b> nas atividades realizadas visto que o estagiário não será responsável técnico de nenhuma atividade na empresa.</p></li>   
   <li><p align="justify">Após preenchimento faça o cadastro no <a href="https://docs.google.com/forms/d/1y5YSp_vQbHcSJhuLP5Zs7cWFzd-5aQsx1jT3HTIeW9g/preview" target="_blank">banco de dados da coordenação de estágio</a>. Esse banco de dados será usado internamente pela coordenação. Assim que efetuar o preenchimento, você receberá uma copia no e-mail informado. Encaminhe essa copia de cadastro para seu orientador de estágio e para a coordenação de estágio (<a href="mailto:estagio.deciv.ufcat@gmail.com">estagio.deciv.ufcat@gmail.com</a>).</p></li>     
 </ol>
 
@@ -39,11 +39,11 @@
 <h3>Finalização do Estágio Curricular Não Obrigatório (ECNO)</h3>
 
 <p align="justify">
-  A finalização do estágio tipo ECNO é realizada automaticamente no encerramento do contrato. O discente não tem carga horária mínima ou máxima para realização do estágio. Para finalização junto as coordenações o discente deverá produzir <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Relat%C3%B3rio%20parcial%20e%20relat%C3%B3rio%20final.docx" target="_blank">relatórios semestrais parciais/finais</a>, assinar e anexar em seu processo SEI. Fazendo isso o seu estágio ECNO poderá ser contabilizado. Salientamos que qualquer estágio deve ter 1 relatório entregue a cada 6 meses, sejam eles parciais ou final.
-  <br><br>
-  Em caso de desligamento do estágio deverá ser preenchido o <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Desligamento_ECNO.docx" target="_blank">termo de desligamento do estágio</a>. Após o preenchimento e devidas assinaturas anexe o mesmo no seu processo SEI.
+  A finalização do estágio tipo ECNO é realizada automaticamente no encerramento do contrato. O discente não tem carga horária mínima ou máxima para realização do estágio. Para finalização junto as coordenações o discente deverá produzir <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Relatorios.docx" target="_blank">relatórios semestrais parciais/finais</a>, assinar e anexar em seu processo SEI. Fazendo isso o seu estágio ECNO poderá ser contabilizado. Salientamos que qualquer estágio deve ter 1 relatório entregue a cada 6 meses, sejam eles parciais ou final.
   <br><br>  
   É recomendável que o relatório semestral do ECNO seja elaborado com o decorrer do estágio pois como se trata de um período muito extenso, portanto algumas informações podem se perder nesta caminhada.
+  <br><br>
+  Em caso de desligamento do estágio deverá ser preenchido o <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Desligamento_ECNO.docx" target="_blank">termo de desligamento do estágio</a>. Após o preenchimento e devidas assinaturas anexe o mesmo no seu processo SEI.
   <br><br>  
   Além disso o discente poderá solicitar a inclusão do seu Estágio Não Obrigatório no histórico escolar. Para que seja possível a inserção deste estágio no seu histórico os seguintes documentos devem estar finalizados no processo.
 </p>
@@ -55,7 +55,7 @@
   <li>Relatório Final (com menção de aprovação do Coordenador de Estágios do curso);</li>
   <li>Formulário de Desligamento de Estágio (caso tenha sido encerrado antes do período previsto no TCE e PA);</li>
   <li>Termo Aditivo (caso o período inicial do estágio tenha sido prorrogado).</li>
-  <li>Solicite ao coordenador do estágio a inclusão do despacho do pedido de inclusão do estágio no histórico. Pegue o padrão descrito a seguir, preencha com suas informações, copie e cole no corpo do e-mail;</li>
+  <li>Solicite ao coordenador do estágio a inclusão do despacho do pedido de inclusão do estágio no histórico. Pegue o padrão descrito a seguir, preencha com suas informações, copie, cole no corpo da mensagem e envio no e-mail;</li>
   <li>Despacho elaborado pelo Coordenador de Estágio do Curso.</li>
 </ol>
 

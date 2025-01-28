@@ -12,8 +12,8 @@
 
 <ol>
   <li><p align="justify">Comprovante de matrícula no curso retirado do SIGAA (não precisa de assinatura);</p></li> 
-  <li><p align="justify">Fazer o <i>download</i> do <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Quadro%20de%20hor%C3%A1rios.xlsx" target="_blank">Quadro de Horários</a> e preencher com a demarcação das horas de estágio, aulas e depois assinar eletronicamente o PDF via assinador GOV ou outro que tenha certificado digital. Estágios com carga superior a 30 hrs devem ser justificados no e-mail de envio da documentação. Estágios com carga horária superior a 40 hrs não serão validados por esta coordenação;</p></li> 
-  <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Plano%20de%20trabalho.docx" target="_blank">Plano de atividades do estágio</a> devidamente assinado. Para elaboração desse documento lembre-se sempre de usar a expressar <b>"auxiliar na atividade x ou y"</b> nas atividades realizadas visto que o estagiário não será responsável técnico de nenhuma atividade na empresa.</p></li>   
+  <li><p align="justify">Fazer o <i>download</i> do <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Horarios.xlsx" target="_blank">Quadro de Horários</a> e preencher com a demarcação das horas de estágio, aulas e depois assinar eletronicamente o PDF via assinador GOV ou outro que tenha certificado digital. Estágios com carga superior a 30 hrs devem ser justificados no e-mail de envio da documentação. Estágios com carga horária superior a 40 hrs não serão validados por esta coordenação;</p></li> 
+  <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Plano_trabalho.docx" target="_blank">Plano de atividades do estágio</a> devidamente assinado. Para elaboração desse documento lembre-se sempre de usar a expressar <b>"auxiliar na atividade x ou y"</b> nas atividades realizadas visto que o estagiário não será responsável técnico de nenhuma atividade na empresa.</p></li>   
   <li><p align="justify">Após preenchimento faça o cadastro no <a href="https://docs.google.com/forms/d/1y5YSp_vQbHcSJhuLP5Zs7cWFzd-5aQsx1jT3HTIeW9g/preview" target="_blank">banco de dados da coordenação de estágio</a>. Esse banco de dados será usado internamente pela coordenação. Assim que efetuar o preenchimento, você receberá uma copia no e-mail informado. Encaminhe essa copia de cadastro para seu orientador de estágio e para a coordenação de estágio (<a href="mailto:estagio.deciv.ufcat@gmail.com">estagio.deciv.ufcat@gmail.com</a>).</p></li>     
 </ol>
 
@@ -34,11 +34,12 @@
 <ol>
   <li><p align="justify">Lista de frequência (enviada pelo coordenador de estágio do curso) assinada pelo discente;</p></li> 
   <li><p align="justify">Plano de Atividades com todas as assinaturas;</p></li> 
-  <li><p align="justify">Termo de Compromisso de Estágio com todas as assinaturas.</p></li> 
+  <li><p align="justify">Termo de Compromisso de Estágio com todas as assinaturas;</p></li> 
+  <li><p align="justify">Agendamento da banca que será enviado quando a mesma for marcada chegando ao final do semestre.</p></li> 
 </ol>
 
 <p align="justify">
-  Após concatenar envie esses documentos para a coordenação de estágio (<a href="mailto:estagio.deciv.ufcat@gmail.com">estagio.deciv.ufcat@gmail.com</a>) usando o seguinte título no assunto do e-mail <b>ESTÁGIO ECO ALUNO <i>NOME COMPLETO</i></b>.
+  Após concatenar os arquivos envie esse documento para a coordenação de estágio (<a href="mailto:estagio.deciv.ufcat@gmail.com">estagio.deciv.ufcat@gmail.com</a>) usando o seguinte título no assunto do e-mail <b>ESTÁGIO ECO ALUNO <i>NOME COMPLETO</i></b>.
 </p>
 
 <h3>Finalização do Estágio Curricular Obrigatório (ECO)</h3>
@@ -51,34 +52,27 @@
 
 <ol>
   <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_apt_defesa.pptx" target="_blank">apresentação final do estágio</a>;</p></li> 
-  <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Relat%C3%B3rio%20parcial%20e%20relat%C3%B3rio%20final.docx" target="_blank">relatório parcial/final do estágio</a>. Este relatório deverá ser assinado e sua ocorrência é de 1 por mês de estágio e 1 ao finalizar o estágio.</p></li> 
+  <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Relatorios.docx" target="_blank">relatório parcial/final do estágio</a>. Este relatório deverá ser assinado e sua ocorrência é de 1 por mês de estágio e 1 ao finalizar o estágio.</p></li>
+  <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Ata.docx" target="_blank">ata de notas da banca</a> pré-preenchido. Enviar este documento em formato <b>Word</b> para o e-mail do estágio 15 dias antes da banca, pois ele será inserido no SEI com suas infos e os professores colocaram sua nota e vc deverá assinar depois, junto com eles ao final da banca.</p></li> 
 </ol>
 
 <p align="justify">
   Após o agendamento da banca o aluno apresentará o estágio em uma banca presencial. O tempo total apresentação é de 5 min e cada membro da banca tem 5 minutos de arguição da apresentação. Após a apresentação os professores deverão atribuir notas a apresentação no despacho criado para este fim e então o aluno e professores deverão também assinar esse documento.
   <br><br>
   É recomendável que os relatórios parciais/final de estágio obrigatório sejam elaborados com o decorrer do estágio.
+  <br><br>
+  Após a apresentação do estágio e preenchimento da nota de apresentação no SEI mais alguns documentos deverão ser encaminhados para coordenação fechar sua nota. Os documentos a serem preenchidos, concatenados e enviados são:
 </p>
-
-<h3>Finalização do Estágio Curricular Obrigatório (ECO)</h3>
-
-<p align="justify">Após a apresentação do estágio o SEI deverá ser preenchido com os documentos que finalizam o processo de estágio supervisionado. Os documentos a serem preenchidos são:</p>
-
-<ol>
-  <li><p align="justify"><a href="https://docs.google.com/document/d/1-3rYxPVhNQ2e0KdDMAEzBC_huAYqeVX0Ceh3ww2D0b8/edit?usp=sharing" target="_blank">Ficha de frequência</a>;</p></li> 
-  <li><p align="justify"><a href="https://docs.google.com/document/d/19VgCVS4zJ3jxkbOOHzbYd5qhTV0RRyYqrlokqvaJ8uU/edit?usp=sharing" target="_blank">Avaliação orientador</a>;</p></li> 
-  <li><p align="justify"><a href="https://docs.google.com/document/d/1KyU32Xd_yBtfQt3wovoOsNEQbmbK4EnUU9lz6CFhics/edit?usp=sharing" target="_blank">Avaliação supervisor</a>.</p></li> 
-</ol>
-
-<p align="justify">Com o preenchimento e assinatura de todos os documentos faça a junção dos seguintes documentos:</p>
 
 <ol>
   <li><p align="justify">Todos os relatórios parciais;</p></li> 
   <li><p align="justify">Relatório final;</p></li> 
-  <li><p align="justify">Lista de frequência;</p></li> 
-  <li><p align="justify">Avaliação orientador;</p></li>
-  <li><p align="justify">Avaliação supervisor;</p></li>
+  <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Frequencia.docx" target="_blank">Ficha de frequência do estágio</a>;</p></li> 
+  <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Av_orientador.docx" target="_blank">Avaliação do orientador</a>;</p></li> 
+  <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Av_supervisor.docx" target="_blank">Avaliação do supervisor</a>;</p></li> 
   <li><p align="justify">Apresentação confeccionada para banca.</p></li> 
 </ol>
 
-<p align="justify">Com o preenchimento e assinatura de todos os documentos o discente deverá concatenar os arquivos listados em um único PDF e submeter no <i>link</i> de <a href="https://forms.gle/59D7WateRRXCXRbw5" target="_blank">notas finais</a>.</p>
+<p align="justify">
+  Após concatenar os arquivos marque um horário para fechar sua nota com o coordenador de estágio. Lembre-se de enviar por e-mail (<a href="mailto:estagio.deciv.ufcat@gmail.com">estagio.deciv.ufcat@gmail.com</a>) todos estes docs pois eles serão armazenados no banco de dados da universidade.
+</p>
