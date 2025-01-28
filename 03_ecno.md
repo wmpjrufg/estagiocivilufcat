@@ -54,19 +54,20 @@
   <li>Relatório Final (com menção de aprovação do Coordenador de Estágios do curso);</li>
   <li>Formulário de Desligamento de Estágio (caso tenha sido encerrado antes do período previsto no TCE e PA);</li>
   <li>Termo Aditivo (caso o período inicial do estágio tenha sido prorrogado).</li>
-  <li>Solicite ao coordenador do estágio a inclusão do despacho do pedido de inclusão do estágio no histórico. Pegue o padrão descrito a seguir e preencha com suas informações no momento do envio do e-mail;</li>
+  <li>Solicite ao coordenador do estágio a inclusão do despacho do pedido de inclusão do estágio no histórico. Pegue o padrão descrito a seguir, preencha com suas informações, copie e cole no corpo do e-mail;</li>
   <li>Despacho elaborado pelo Coordenador de Estágio do Curso.</li>
 </ol>
 
-  <p align="justify">O documento despacho deverá ser criado pelo coordenador dentro do processo SEI com o seguinte padrão:
+<p align="justify">O documento despacho deverá ser criado pelo coordenador dentro do processo SEI com o seguinte padrão:
   <br><br>
-  À Coordenação Geral de Estágios (CGE/UFCAT)<br><br>
+  <i>À Coordenação Geral de Estágios (CGE/UFCAT)<br><br>
 
   Assunto: Inserção do estágio não obrigatório no histórico acadêmico.<br><br>
 
   Prezados(as),<br>
   A Coordenação de Estágios do Curso de Engenharia Civil, vem, por meio deste, solicitar a inserção do Estágio Não Obrigatório no Histórico do discente <b><font color = "blue">?????</font></b>, matrícula <b><font color = "blue">?????</font></b>, do curso de Bacharelado em Engenharia Civil, com Estágio Não obrigatório realizado na empresa <b><font color = "blue">?????</font></b>, através do <b><font color = "blue">???IEL/CIEE/UFCAT/UFG??? (Aqui escolher o correto)</font></b>, com carga horária de <b><font color = "blue">?????</font></b> / semanais, iniciado em <b><font color = "blue">?????</font></b> e finalizado em <b><font color = "blue">?????</font></b>, tendo o estudante cumprido com todas as atividades do seu plano e entregue os relatórios parcial e final, com ciência e aprovação da Coordenadora de Estágio do Curso de Engenharia Civil, totalizando <b><font color = "blue">?????</font></b> horas de estágio não obrigatório.<br><br>
   Atenciosamente,
+  </i>
   <br><br>
-  Após a construção deste documento avise o coordenador para que o mesmo possa enviar o processo para or orgãos internos de controle e então o processo seja finalizado corretamente.
+  Após a construção deste documento avise o coordenador para que o mesmo possa enviar o processo para or órgãos internos de controle e então o processo seja finalizado corretamente.
 </p>
