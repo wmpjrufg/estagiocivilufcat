@@ -1,4 +1,4 @@
-## Estágio Curricular Obrigatório (ECO)
+<h1>Estágio Curricular Obrigatório (ECO)</h1>
 
 <p align="justify">
   Nesta página você discente terá acesso as informações do Estágio Curricular Obrigatório (ECO) da Universidade Federal de Catalão (UFCAT) relativo ao curso de Engenharia Civil.
@@ -12,8 +12,9 @@
 
 <ol>
   <li><p align="justify">Comprovante de matrícula no curso retirado do SIGAA (não precisa de assinatura);</p></li> 
-  <li><p align="justify">Fazer o <i>download</i> do <a href="https://docs.google.com/spreadsheets/d/1cRCrnA9vk6USZ2PEpc6VoSkObCageqhFIk3q2v2aotA/edit?usp=sharing" target="_blank">Quadro de Horários</a> e preencher com a demarcação das horas de estágio, aulas e depois assinar eletronicamente o PDF;</p></li> 
-  <li><p align="justify"><a href="https://files.cercomp.ufg.br/weby/up/610/o/6.5_PLANO_DE_ATIVIDADES_ESTUDANTES_DA_UFCAT_REALIZANDO_ESTAGIO_OBRIGATORIO_EM_INSTITUI%C3%87OES_CONVENIADAS_COM_UFCAT_1.doc" target="_blank">Plano de atividades do estágio</a> (lembre-se de usar o seu e-mail da UFCAT para receber a cópia do formulário preenchido) devidamente assinado.</p></li>   
+  <li><p align="justify">Fazer o <i>download</i> do <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Quadro%20de%20hor%C3%A1rios.xlsx" target="_blank">Quadro de Horários</a> e preencher com a demarcação das horas de estágio, aulas e depois assinar eletronicamente o PDF via assinador GOV ou outro que tenha certificado digital. Estágios com carga superior a 30 hrs devem ser justificados no e-mail de envio da documentação. Estágios com carga horária superior a 40 hrs não serão validados por esta coordenação;</p></li> 
+  <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Plano%20de%20trabalho.docx" target="_blank">Plano de atividades do estágio</a> devidamente assinado. Para elaboração desse documento lembre-se sempre de usar a expressar <b>"auxiliar na atividade x ou y"</b> nas atividades realizadas visto que o estagiário não será responsável técnico de nenhuma atividade na empresa.</p></li>   
+  <li><p align="justify">Após preenchimento faça o cadastro no <a href="https://docs.google.com/forms/d/1y5YSp_vQbHcSJhuLP5Zs7cWFzd-5aQsx1jT3HTIeW9g/preview" target="_blank">banco de dados da coordenação de estágio</a>. Esse banco de dados será usado internamente pela coordenação. Assim que efetuar o preenchimento, você receberá uma copia no e-mail informado. Encaminhe essa copia de cadastro para seu orientador de estágio e para a coordenação de estágio (<a href="mailto:estagio.deciv.ufcat@gmail.com">estagio.deciv.ufcat@gmail.com</a>).</p></li>     
 </ol>
 
 <p align="justify">
@@ -25,7 +26,7 @@
   <br><br>
   Não se esqueça de recolher a assinatura em todos os documentos para que seu estágio tenha validade. Além disso é muito importante que você aluno esteja segurado. Consulte o seu contratante para obter o número de apólice do seu seguro. No caso do ECO, alunos matriculados na componente curricular tem direito a um seguro. Verificar com a Coordenação Geral de estágio qual a apólice de seguro vigente.
   <br><br>
-  A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/005-BOLSA.html" target="_blank">página de regras para concessão de bolsas</a>.
+  A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/estagiocivilufcat/05_bolsa.html" target="_blank">página de regras para concessão de bolsas</a>.
   <br><br>
   Após recolhimento de todas as assinaturas nos documentos é obrigatório a partir de 2021 que o ECO seja registrado via SEI. O peticionamento do estágio é realizado pelo próprio coordenador de estágio e fica a cargo do discente a produção dos documentos comprobatórios do estágio. A seguir segue uma lista de documentos que deve ser produzida e concatenada (recomendamos o uso do <a href="https://www.ilovepdf.com/pt" target="_blank">Ilovepdf</a> para junção dos arquivos) para inserção no SEI na seguinte ordem seguem:
 </p>
@@ -36,21 +37,28 @@
   <li><p align="justify">Termo de Compromisso de Estágio com todas as assinaturas.</p></li> 
 </ol>
 
-<h3>Banca do Estágio Curricular Obrigatório (ECO)</h3>
-
-<p align="justify">Para finalização do estágio deverá ser inserido em um processo SEI (do tipo estágio obrigatório) a documentação citada anteriormente. Para isso solicite o número do processo SEI para seu coordenador de estágio e efetue o preenchimento do seu agendamento de banca. Consulte o plano de ensino para verificar qual a data permitida para agendamento de bancas. Caso deseje consultar o horário das bancas você pode consultar nosso <a href="https://docs.google.com/spreadsheets/d/1x9W-Bg2a8p25zvvYJ1OOpVuNrcEpl_JtH8oZPI-Uvys/edit?usp=sharing" target="_blank">banco de dados</a>. Lembre-se de sempre marcar as bancas em horários próximos para facilitar o processo de participação dos membros da banca. Portanto a recomendação aqui é sempre fazer a defesa de todos os alunos em horários próximos.</p>
-
-<p align="justify">A avaliação do ECO no curso de Engenharia Civil é realizada por meio de uma apresentação em formato de banca e a entrega de um relatório final (dados gerais + relatórios parciais + fotos). Ambos os modelos constam a seguir:</p>
-
-<ol>
-  <li><p align="justify"><a href="https://docs.google.com/presentation/d/1Xsa8Kp1K9JwFi0zL9CM3gO00OC46GfgaSLMZImaCkOs/edit?usp=sharing" target="_blank">Apresentação final do estágio</a>;</p></li> 
-  <li><p align="justify"><a href="https://files.cercomp.ufg.br/weby/up/610/o/1.4_Relat%C3%B3rio_de_Atividades_Est%C3%A1gio_n%C3%A3o_obrigat%C3%B3rio_em_empresas_conveniadas_com_a_UFCAT.docx" target="_blank">Relatório parcial/final do estágio</a> (assinado) que é inserido no relatório final (1 por mês de estágio). No mês final do estágio não é necessária a elaboração do relatório parcial, somente o final.</p></li> 
-</ol>
-
-<p align="justify">Após o agendamento da banca o aluno apresentará o estágio em uma banca presencial. O tempo total apresentação é de 5 min e cada membro da banca tem 5 minutos de arguição da apresentação. Após a apresentação os professores deverão atribuir notas a apresentação no despacho criado para este fim e então o aluno e professores deverão também assinar esse documento.
+<p align="justify">
+  Após concatenar envie esses documentos para a coordenação de estágio (<a href="mailto:estagio.deciv.ufcat@gmail.com">estagio.deciv.ufcat@gmail.com</a>) usando o seguinte título no assunto do e-mail <b>ESTÁGIO ECO ALUNO <i>NOME COMPLETO</i></b>.
 </p>
 
-<p align="justify">É recomendável que os relatórios parciais/final de estágio obrigatório sejam elaborados com o decorrer do estágio.</p>
+<h3>Finalização do Estágio Curricular Obrigatório (ECO)</h3>
+
+<p align="justify">
+  Para finalização do estágio deverá ser inserido em um processo SEI (do tipo estágio obrigatório) a documentação citada anteriormente. Para isso solicite o número do processo SEI para seu coordenador de estágio e efetue o preenchimento do seu <a href="https://docs.google.com/presentation/d/1Xsa8Kp1K9JwFi0zL9CM3gO00OC46GfgaSLMZImaCkOs/edit?usp=sharing" target="_blank">agendamento de banca</a> (o formulário é editável a qualquer momento). Lembre-se de sempre marcar as bancas em horários próximos para facilitar o processo de participação dos membros da banca. Portanto a recomendação aqui é sempre fazer a defesa de todos os alunos em horários próximos, para que seja mais rápido o processo. O coordenador sempre informa a data limite para essa tarefa.
+  <br><br>
+  A avaliação do ECO no curso de Engenharia Civil é realizada por meio de uma apresentação em formato de banca e a entrega dos relatórios parciais/finais. Ambos os modelos constam a seguir:
+</p>
+
+<ol>
+  <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_apt_defesa.pptx" target="_blank">apresentação final do estágio</a>;</p></li> 
+  <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Relat%C3%B3rio%20parcial%20e%20relat%C3%B3rio%20final.docx" target="_blank">relatório parcial/final do estágio</a>. Este relatório deverá ser assinado e sua ocorrência é de 1 por mês de estágio e 1 ao finalizar o estágio.</p></li> 
+</ol>
+
+<p align="justify">
+  Após o agendamento da banca o aluno apresentará o estágio em uma banca presencial. O tempo total apresentação é de 5 min e cada membro da banca tem 5 minutos de arguição da apresentação. Após a apresentação os professores deverão atribuir notas a apresentação no despacho criado para este fim e então o aluno e professores deverão também assinar esse documento.
+  <br><br>
+  É recomendável que os relatórios parciais/final de estágio obrigatório sejam elaborados com o decorrer do estágio.
+</p>
 
 <h3>Finalização do Estágio Curricular Obrigatório (ECO)</h3>
 
