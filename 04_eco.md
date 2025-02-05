@@ -14,7 +14,7 @@
   <li><p align="justify">Comprovante de matrícula no curso retirado do SIGAA (não precisa de assinatura);</p></li> 
   <li><p align="justify">Fazer o <i>download</i> do <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Horarios.xlsx" target="_blank">Quadro de Horários</a> e preencher com a demarcação das horas de estágio, aulas e depois assinar eletronicamente o PDF via assinador GOV ou outro que tenha certificado digital. Estágios com carga superior a 30 hrs devem ser justificados no e-mail de envio da documentação. Estágios com carga horária superior a 40 hrs não serão validados por esta coordenação;</p></li> 
   <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Plano_trabalho.docx" target="_blank">Plano de atividades do estágio</a> devidamente assinado. Para elaboração desse documento lembre-se sempre de usar a expressar <b>"auxiliar na atividade x ou y"</b> nas atividades realizadas visto que o estagiário não será responsável técnico de nenhuma atividade na empresa.</p></li>   
-  <li><p align="justify">Após preenchimento faça o cadastro no <a href="https://docs.google.com/forms/d/1y5YSp_vQbHcSJhuLP5Zs7cWFzd-5aQsx1jT3HTIeW9g/preview" target="_blank">banco de dados da coordenação de estágio</a>. Esse banco de dados será usado internamente pela coordenação. Assim que efetuar o preenchimento, você receberá uma copia no e-mail informado. Encaminhe essa copia de cadastro para seu orientador de estágio e para a coordenação de estágio (<a href="mailto:estagio.deciv.ufcat@gmail.com">estagio.deciv.ufcat@gmail.com</a>).</p></li>     
+  <li><p align="justify">Após preenchimento faça o cadastro no <a href="https://forms.gle/GfvbzAXmZqKPWnZ87" target="_blank">banco de dados da coordenação de estágio</a>. Esse banco de dados será usado internamente pela coordenação. Assim que efetuar o preenchimento, você receberá uma copia no e-mail informado. Encaminhe essa copia de cadastro para seu orientador de estágio e para a coordenação de estágio (<a href="mailto:estagio.deciv.ufcat@gmail.com">estagio.deciv.ufcat@gmail.com</a>).</p></li>     
 </ol>
 
 <p align="justify">
@@ -28,26 +28,31 @@
   <br><br>
   A concessão de bolsa, no ECO, não é compulsória. Para maiores informações em relação a bolsa acesse a <a href="https://wmpjrufg.github.io/estagiocivilufcat/05_bolsa.html" target="_blank">página de regras para concessão de bolsas</a>.
   <br><br>
-  Após recolhimento de todas as assinaturas nos documentos é obrigatório a partir de 2021 que o ECO seja registrado via SEI. O peticionamento do estágio é realizado pelo próprio coordenador de estágio e fica a cargo do discente a produção dos documentos comprobatórios do estágio. A seguir segue uma lista de documentos que deve ser produzida e concatenada (recomendamos o uso do <a href="https://www.ilovepdf.com/pt" target="_blank">Ilovepdf</a> para junção dos arquivos) para inserção no SEI na seguinte ordem seguem:
 </p>
-  
-<ol>
-  <li><p align="justify">Lista de frequência (enviada pelo coordenador de estágio do curso) assinada pelo discente;</p></li> 
-  <li><p align="justify">Plano de Atividades com todas as assinaturas;</p></li> 
-  <li><p align="justify">Termo de Compromisso de Estágio com todas as assinaturas;</p></li> 
-  <li><p align="justify">Agendamento da banca que será enviado quando a mesma for marcada chegando ao final do semestre.</p></li> 
-</ol>
+
+<!-- 
 
 <p align="justify">
   Após concatenar os arquivos envie esse documento para a coordenação de estágio (<a href="mailto:estagio.deciv.ufcat@gmail.com">estagio.deciv.ufcat@gmail.com</a>) usando o seguinte título no assunto do e-mail <b>ESTÁGIO ECO ALUNO <i>NOME COMPLETO</i></b>.
-</p>
+</p> -->
 
 <h3>Finalização do Estágio Curricular Obrigatório (ECO)</h3>
 
 <p align="justify">
-  Para finalização do estágio deverá ser inserido em um processo SEI (do tipo estágio obrigatório) a documentação citada anteriormente. Para isso solicite o número do processo SEI para seu coordenador de estágio e efetue o preenchimento do seu <a href="https://docs.google.com/presentation/d/1Xsa8Kp1K9JwFi0zL9CM3gO00OC46GfgaSLMZImaCkOs/edit?usp=sharing" target="_blank">agendamento de banca</a> (o formulário é editável a qualquer momento). Lembre-se de sempre marcar as bancas em horários próximos para facilitar o processo de participação dos membros da banca. Portanto a recomendação aqui é sempre fazer a defesa de todos os alunos em horários próximos, para que seja mais rápido o processo. O coordenador sempre informa a data limite para essa tarefa.
+  Para finalização do estágio deverá ser criado um processo SEI do tipo estágio obrigatório. O peticionamento do estágio é realizado pelo próprio coordenador de estágio e fica a cargo do discente a produção dos documentos comprobatórios do estágio. 
   <br><br>
-  A avaliação do ECO no curso de Engenharia Civil é realizada por meio de uma apresentação em formato de banca e a entrega dos relatórios parciais/finais. Ambos os modelos constam a seguir:
+  A seguir segue uma lista de documentos que deve ser produzida e concatenada (recomendamos o uso do <a href="https://www.ilovepdf.com/pt" target="_blank">Ilovepdf</a> para junção dos arquivos) para inserção no SEI na seguinte ordem seguem:
+</p>
+
+<ol>
+  <li><p align="justify">Lista de frequência (enviada pelo coordenador de estágio do curso) assinada pelo discente;</p></li> 
+  <li><p align="justify">Plano de Atividades com todas as assinaturas;</p></li> 
+  <li><p align="justify">Termo de Compromisso de Estágio com todas as assinaturas;</p></li> 
+  <li><p align="justify">PDF do formulário de <a href="https://forms.gle/WTGPZSkEgNEzKFq67" target="_blank">agendamento de banca</a> que será enviado por e-mail quando a banca for agendada. Lembre-se de sempre marcar as bancas em horários próximos para facilitar o processo de participação dos membros da banca.</p></li> 
+</ol>
+
+<p align="justify">
+  Após a inserção desses documentos você estará apto a defesa do estágio. Lembre-se de preparar sua apresentação, seus relatórios de estágio, preencher os seus dados de banca e nome dos avaliadores no modelo de ata. Todos estes docs são listados logo a seguir para <i>download</i>:
 </p>
 
 <ol>
@@ -65,8 +70,8 @@
 </p>
 
 <ol>
-  <li><p align="justify">Todos os relatórios parciais;</p></li> 
-  <li><p align="justify">Relatório final;</p></li> 
+  <li><p align="justify">Todos os relatórios parciais no modelo encaminhado;</p></li> 
+  <li><p align="justify">Relatório final no modelo encaminhado;</p></li> 
   <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Frequencia.docx" target="_blank">Ficha de frequência do estágio</a>;</p></li> 
   <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Av_orientador.docx" target="_blank">Avaliação do orientador</a>;</p></li> 
   <li><p align="justify"><a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Av_supervisor.docx" target="_blank">Avaliação do supervisor</a>;</p></li> 

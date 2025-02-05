@@ -9,7 +9,7 @@
     <br><br>
     A UFCAT já possui em seu cadastro diversos <a href="https://estagio.catalao.ufg.br/p/37440-agentes-de-integracao-ufcat" target="_blank">agentes integradores</a> habilitados.
     <br><br>
-    Para realizar o convênio da empresa com a UFCAT basta acessar o <a href="https://estagio.catalao.ufg.br/p/37376-documentacao" target="_blank"><i>link</i></a> e efetuar o envio da documentação necessária para o setor de convênios da universidade. Além disso a UFCAT já possui diversas <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank">empresas conveniadas</a> basta verificar se sua empresa já possui convênio com nossa universidade.
+    Para realizar o convênio da empresa com a UFCAT basta efetuar o envio da <a href="https://estagio.catalao.ufg.br/p/37376-documentacao" target="_blank">documentação necessária</a> para o setor de convênios da universidade. Além disso a UFCAT já possui diversas <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank">empresas conveniadas</a> basta verificar se sua empresa já possui convênio com nossa universidade.
     <br><br>
     Caso você seja um aluno que deseja aproveitar algum estágio já cadastrado para se transformar em ECO. Favor elaborar um um novo contrato de estágio. Para maiores informações consulte a Coordenação Geral de Estágio para contratos que possuem convênio UFCAT e consulte o seu agente integrador para operação de mudança.
     <br><br>
