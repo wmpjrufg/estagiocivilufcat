@@ -4,7 +4,7 @@
 
 <p align="justify">A concessão de bolsas é compulsória no caso do Estágio Curricular Não Obrigatório (ECNO), no caso do Estágio Curricular Obrigatório (ECO) a concessão de bolsas é opcional.<br>
 <br>
-Se houver bolsa no ECO, tem que ser observado seu valor, pois, apesar de ser facultada a concessão de bolsa no ECO, caso esta exista, deverá acompanhar o mesmo procedimento para ECNO - Estágio Curricular Não Obrigatório e há Instrução Normativa vigente do Ministério da Economia com os valores mínimos para bolsa nesta modalidade de estágio.<br>
+Se houver bolsa no ECO, deve ser observado seu valor, pois, apesar de ser facultada a concessão de bolsa no ECO, caso esta exista, deverá acompanhar o mesmo procedimento para ECNO - Estágio Curricular Não Obrigatório e há Instrução Normativa vigente do Ministério da Economia com os valores mínimos para bolsa nesta modalidade de estágio.<br>
 <br>
 Critérios para concessão de bolsa:<br>
 <br>

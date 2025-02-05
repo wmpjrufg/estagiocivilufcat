@@ -7,7 +7,7 @@
   <br><br>
   O estágio poderá ser realizado de duas formas: (a) Convênio (consulte as <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank">empresas conveniadas</a>); ou (b) Agente de integração (consulte os <a href="https://estagio.catalao.ufg.br/p/37440-agentes-de-integracao-ufcat" target="_blank">agentes integradores parceiros</a>).
   <br><br>
-  Após o passo anterior o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes documentos devidamente assinados:
+  Após o passo anterior o discente deverá dar andamento aos documentos para elaboração do contrato de trabalho que no caso do estágio é chamado de TCE (Termo de Contrato de Estágio). Para dar andamento a esse documento, tenha os seguintes devidamente assinados:
 </p>
 
 <ol>
@@ -52,13 +52,13 @@
 </ol>
 
 <p align="justify">
-  Após a inserção desses documentos você estará apto a defesa do estágio. Lembre-se de preparar sua apresentação, seus relatórios de estágio, preencher os seus dados de banca e nome dos avaliadores no modelo de ata. Todos estes docs são listados logo a seguir para <i>download</i>:
+  Após a inserção desses documentos você estará apto a defesa do estágio. Lembre-se de preparar sua apresentação, seus relatórios de estágio, preencher os seus dados de banca e nome dos avaliadores no modelo de ata. Todos estes documentos estão listados a seguir para <i>download</i>:
 </p>
 
 <ol>
-  <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_apt_defesa.pptx" target="_blank">apresentação final do estágio</a>;</p></li> 
+  <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Defesa.pptx" target="_blank">apresentação final do estágio</a>;</p></li> 
   <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Relatorios.docx" target="_blank">relatório parcial/final do estágio</a>. Este relatório deverá ser assinado e sua ocorrência é de 1 por mês de estágio e 1 ao finalizar o estágio.</p></li>
-  <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Ata.docx" target="_blank">ata de notas da banca</a> pré-preenchido. Enviar este documento em formato <b>Word</b> para o e-mail do estágio 15 dias antes da banca, pois ele será inserido no SEI com suas infos e os professores colocaram sua nota e vc deverá assinar depois, junto com eles ao final da banca.</p></li> 
+  <li><p align="justify">Modelo <a href="https://github.com/wmpjrufg/estagiocivilufcat/blob/gh-pages/Docs/W%20M%20Pereira%20Junior_FEA0061_Ata.docx" target="_blank">ata de notas da banca</a> pré-preenchido. Enviar este documento em formato <b>Word</b> para o e-mail do estágio 15 dias antes da banca, pois ele será inserido no SEI com suas informações.</p></li> 
 </ol>
 
 <p align="justify">
@@ -66,7 +66,7 @@
   <br><br>
   É recomendável que os relatórios parciais/final de estágio obrigatório sejam elaborados com o decorrer do estágio.
   <br><br>
-  Após a apresentação do estágio e preenchimento da nota de apresentação no SEI mais alguns documentos deverão ser encaminhados para coordenação fechar sua nota. Os documentos a serem preenchidos, concatenados e enviados são:
+  Após a apresentação do estágio e preenchimento da nota de apresentação no SEI (lembre-se de assinar e os professores da banca também assinar) mais alguns documentos deverão ser encaminhados para coordenação fechar sua nota. Os documentos a serem preenchidos, concatenados e enviados são:
 </p>
 
 <ol>
