@@ -18,7 +18,7 @@
     <br><br>
     Os estágios só podem ser realizados em instituições e empresas conveniadas com a UFCAT, que tenham condições de proporcionar experiência prática e aplicação de conhecimentos integrantes do currículo do curso, permitindo complementar o ensino e a aprendizagem. Além de convênios com a universidade o estágio pode ser firmado por meio do <a href="https://estagio.catalao.ufg.br/p/37440-agentes-de-integracao-ufcat" target="_blank">agente integrador</a> parceiro da UFCAT. 
     <br><br>
-    Maiores dúvidas sobre os agentes integradores e empresas conveniadas com a UFCAT estão disponíveis no contato <a href="mailto:cge.prograd@ufcat.edu.br">cge.prograd@ufcat.edu.br</a>. Em caso de necessidade de realização de convênio consulte também a Coordenação Geral de Estágio, pois ela fornecerá os ddocumentos para tal fim. Quando a formalização do estágio for realizada pelo agente integrador toda a documentação é efetivada por ele próprio e o discente.
+    Maiores dúvidas sobre os agentes integradores e empresas conveniadas com a UFCAT estão disponíveis no contato <a href="mailto:cge.prograd@ufcat.edu.br">cge.prograd@ufcat.edu.br</a>. Em caso de necessidade de realização de convênio consulte também a Coordenação Geral de Estágio, pois ela fornecerá os documentos para tal fim. Quando a formalização do estágio for realizada pelo agente integrador toda a documentação é efetivada por ele próprio e o discente.
     <br><br>
     O acompanhamento do estágio é de responsabilidade da Coordenação e da Comissão de Estágio Supervisionado, que delibera sobre a proposta apresentada pelo estudante, controla datas de entrega de relatórios, participa de reuniões com empresas conveniadas e propõe alterações nas normas de estágio do curso.
     <br><br>
