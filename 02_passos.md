@@ -7,9 +7,9 @@
     <br><br>
     O Regulamento Geral dos Cursos de Graduação (RGCG) dispõe sobre a necessidade da celebração de convênio entre as empresas concedentes de estágio e a universidade, ou então, como segunda opção ao convênio, as empresas podem a utilizar de agentes integradores que fazem a ponte entre as empresas e a universidade, sem necessidade de celebrar o convênio.
     <br><br>
-    A UFCAT já possui em seu cadastro diversos <a href="https://estagio.catalao.ufg.br/p/37440-agentes-de-integracao-ufcat" target="_blank">agentes integradores</a> habilitados.
+    Caso o discente e a empresa optem pela escolha de um agente integrador a UFCAT já possui em seu cadastro diversos <a href="https://estagio.catalao.ufg.br/p/37440-agentes-de-integracao-ufcat" target="_blank">agentes</a> habilitados. Consulte a lista para dar continuidade ao processo.
     <br><br>
-    Para realizar o convênio da empresa com a UFCAT basta efetuar o envio da <a href="https://estagio.catalao.ufg.br/p/37376-documentacao" target="_blank">documentação necessária</a> para o setor de convênios da universidade. Além disso a UFCAT já possui diversas <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank">empresas conveniadas</a> basta verificar se sua empresa já possui convênio com nossa universidade.
+    Caso a opção seja pelo convênio empresa e UFCAT basta efetuar o envio da <a href="https://estagio.catalao.ufg.br/p/37376-documentacao" target="_blank">documentação necessária</a> para o setor de convênios da universidade. Além disso a UFCAT já possui diversas <a href="https://estagio.catalao.ufg.br/p/40059-convenios" target="_blank">empresas conveniadas</a> basta verificar se sua empresa já possui convênio com nossa universidade.
     <br><br>
     Caso você seja um aluno que deseja aproveitar algum estágio já cadastrado para se transformar em ECO. Favor elaborar um um novo contrato de estágio. Para maiores informações consulte a Coordenação Geral de Estágio para contratos que possuem convênio UFCAT e consulte o seu agente integrador para operação de mudança.
     <br><br>
